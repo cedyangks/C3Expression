@@ -1284,3 +1284,16 @@ JavaScript warning: https://www.set.or.th/_Incapsula_Resource?SWJIYLWA=719d34d31
 JavaScript warning: https://www.set.or.th/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1801249432 line 1 > eval, line 1: unreachable code after return statement
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
 1681355748246	Marionette	INFO	Stopped listening on port 52593
+1681368660749	geckodriver	INFO	Listening on 127.0.0.1:54934
+1681368660756	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/v395xfy959n8xn9cpkxbqbk80000gn/T/rust_mozprofileElj7d0"
+1681368661259	Marionette	INFO	Marionette enabled
+1681368661329	Marionette	INFO	Listening on port 54940
+Read port: 54940
+WebDriver BiDi listening on ws://127.0.0.1:54935
+1681368661654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/rx/v395xfy959n8xn9cpkxbqbk80000gn/T/rust_mozprofileElj7d0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54935/devtools/browser/c5e76503-4ed1-4c36-88ac-a7fc93aee945
+JavaScript warning: https://www.set.or.th/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1144774094, line 1: unreachable code after return statement
+JavaScript warning: https://www.set.or.th/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1144774094, line 1: unreachable code after return statement
+JavaScript warning: https://www.set.or.th/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1144774094 line 1 > eval, line 1: unreachable code after return statement
+1681368934937	Marionette	INFO	Stopped listening on port 54940
