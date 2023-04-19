@@ -4,4 +4,4 @@ curl -g 'https://www.hkex.com.hk/eng/stat/smstat/ssturnover/ncms/mshtmain.htm' >
 
 curl -g 'https://www.hkex.com.hk/eng/stat/smstat/ssturnover/ncms/mshtmain.htm' > HK_X_SS.html
 
-curl -X 'GET'  'https://markets.newyorkfed.org/api/rates/all/latest.json'  -H 'accept: application/json' > ReferenceRate.json
+curl -X 'GET' -H 'accept: application/json' https://markets.newyorkfed.org/api/rp/all/all/results/last/500.json > FedNY.json
